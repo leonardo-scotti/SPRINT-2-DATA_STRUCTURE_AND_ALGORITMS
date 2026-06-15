@@ -1,7 +1,6 @@
 # ⚡ ChargeGrid Intelligence — Sistema de Gerenciamento de Recarga
 
 **Disciplina:** Data Structure and Algorithms 
-**Equipe:** Grupo Orion  
 
 ## Integrantes
 | NOME | RM |
