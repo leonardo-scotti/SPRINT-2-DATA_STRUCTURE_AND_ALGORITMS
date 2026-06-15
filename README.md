@@ -21,10 +21,15 @@ O **ChargeGrid Intelligence** é um sistema de terminal em Python que simula a o
 
 ## ▶️ Como executar
 
-Requisito: Python 3.10+ (sem bibliotecas externas).
+Requisito: 
+* Python 3.10+
+* Pandas
 
 ```bash
 python chargegrid_sprint2.py
+```
+```bash
+pip install pandas
 ```
 
 ---
@@ -131,7 +136,8 @@ chargegrid_sprint2.py
   [4] Ver relatório de sessão ativa
   [5] Relatório consolidado (histórico)
   [6] Executar cenário automático (3 veículos)
-  [7] Sair
+  [7] Exportar relatório Excel
+  [8] Sair
 ```
 
 ### Opção 3 — Painel do eletroposto (com 3 sessões ativas)
