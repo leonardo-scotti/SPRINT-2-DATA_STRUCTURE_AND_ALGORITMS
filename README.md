@@ -3,11 +3,14 @@
 **Disciplina:** Data Structure and Algorithms 
 **Equipe:** Grupo Orion  
 
-| Nome | RM |
-|---|---|
-| Leonardo Scotti Tobias | 573305 |
-| Henrique de Souza Aragão | 570529 |
-| Natan Silva da Costa | 573100 |
+## Integrantes
+| NOME | RM |
+| ---- | -- |
+| LEONARDO SCOTTI TOBIAS | 573305 |
+| NATAN SILVA DA COSTA | 573100 |
+| ENZO SEIJI DELGADO TABUCHI | 573156 |
+| LUCA ALMEIDA LUCARELI | 569061 |
+| HENRIQUE ALMEIDA LUCARELI | 569183 |
 
 ---
 
